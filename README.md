@@ -14,9 +14,7 @@ This repository contains the code and resources for the project titled **"Analyz
 - Predictive modeling using ARIMA and LSTM with various feature sets.
 
 ## IEEE Paper
-The complete project report, formatted according to IEEE standards, can be found here: [Project Report (PDF)](./project_report.pdf)
+The complete project report, formatted according to IEEE standards, can be found here:  
+[**Project Report (PDF)**](https://github.com/kerembkmz/Presidential_Tweets_Impacts_SP500/blob/main/PresidentialTweets_SentimentAnalysis_S%26P500.pdf)
 
-## Setup and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository.git
+The results and code discussed in the paper are included in this repository.
